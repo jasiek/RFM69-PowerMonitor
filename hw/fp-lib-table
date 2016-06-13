@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name RFM69HW)(type Legacy)(uri "$(KIPRJMOD)/libs/RFM69HW.mod")(options "")(descr ""))
+  (lib (name ArduProMiniTKB)(type Legacy)(uri "$(KIPRJMOD)/libs/ArduProMiniTKB.mod")(options "")(descr ""))
 )

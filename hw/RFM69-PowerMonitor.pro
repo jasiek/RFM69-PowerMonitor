@@ -1,4 +1,4 @@
-update=2016 June 13, Monday 22:25:06
+update=2016 June 13, Monday 22:30:16
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=libs/RFM69HW
+LibName31=libs/ArduProMiniTKB
