@@ -1,0 +1,4 @@
+#define GATEWAYID  1
+#define NETWORKID  99
+#define NODEID     101
+#define ENCRYPTKEY "TROLOLOLOLO"
